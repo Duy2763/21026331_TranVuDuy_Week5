@@ -15,7 +15,7 @@
    ```or
    ```Nhấn "w" để chạy trên web
 
-### Có một tài khoản đăng nhập được tạo sẵn
+### Có một tài khoản LOGIN được tạo sẵn
 ## Email: 1
 ## Password: 1
 
