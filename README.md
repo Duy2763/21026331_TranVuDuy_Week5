@@ -15,12 +15,8 @@
    ```or
    ```Nhấn "w" để chạy trên web
 
-3. Có một tài khoản đăng nhập được tạo sẵn
-    ```Email: 1
-    ```Password: 1
+### Có một tài khoản đăng nhập được tạo sẵn
+## Email: 1
+## Password: 1
 
 
-   ```bash
-    npm start
-   ```or
-   ```Nhấn "w" để chạy trên web
